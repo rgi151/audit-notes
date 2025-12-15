@@ -1,2 +1,2 @@
 # audit-notes
-All the learning stored 
+All the learning DONE by Me
